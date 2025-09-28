@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "Sistem Informasi Manajemen SEMA FT",
+    "category": "Laravel Project",
+    "tags": ["Laravel", "Blade", "Vite", "MySQL"],
+    "label": "Best Seller",
+    "harga": "Rp 2.000.000",
+    "image": "assets/produk/semaft/home.png",
+    "link": "beli.html"
+  },
+  {
+    "id": "2",
+    "name": "Sistem Validasi Tiket Mahasiswa (QR Based)",
+    "category": "React Project",
+    "tags": ["React", "Tailwind", "Vite", "Node.js", "Express.js", "MySQL"],
+    "label": "Best Seller",
+    "harga": "Rp 1.800.000",
+    "image": "assets/produk/scantiket/login.png",
+    "link": "beli.html"
+  },
+  {
+    "id": "3",
+    "name": "Gambar to PDF Converter",
+    "category": "React Project",
+    "tags": ["React", "Tailwind", "Vite"],
+    "label": "Favorite",
+    "harga": "Rp 50.000",
+    "image": "assets/produk/cvpdf/gtp1.png",
+    "link": "beli.html"
+  },
+  {
+    "id": "4",
+    "name": "Islamic Web App | Al-Quran DIgital",
+    "category": "React Project",
+    "tags": ["React", "Tailwind", "Vite", "APIs"],
+    "label": "Bundle",
+    "harga": "Rp 500.000",
+    "image": "assets/produk/quran/quran1.png",
+    "link": "beli.html"
+  }
+]
